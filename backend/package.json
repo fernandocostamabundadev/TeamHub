@@ -1,0 +1,22 @@
+{
+  "name": "teamhub",
+  "version": "1.0.0",
+  "description": "API completa para gestão de times e tarefas com Kanban, WebSockets em tempo real, permissões granulares e notificações. Construída com Node.js, TypeScript e Prisma.",
+  "keywords": [
+    "saas",
+    "teams",
+    "tasks",
+    "kanban",
+    "websockets",
+    "realtime",
+    "nodejs",
+    "typescript",
+    "prisma",
+    "clean-architecture"
+  ],
+  "license": "MIT",
+  "author": "Fernando Costa Mabunda",
+  "type": "module",
+  "main": "src/app.ts",
+  "scripts": {}
+}
